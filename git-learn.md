@@ -1,5 +1,5 @@
 Parancsok:
-git add . -> összes cuclit hozzáadja
+git add . -> összes cuclit (amit nem támogat a gt) hozzáadja
 git status -> a jelenleg fájlokat mutatja
 git commit -a -m 'szöveg' -> updatelt fájlokat commitolja
 
