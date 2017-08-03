@@ -17,7 +17,7 @@ Stateless function:
     return(
       <h3>Examples components!</h3>
     )
-  };
+  };d
 
   változók esetén így lehet
 
